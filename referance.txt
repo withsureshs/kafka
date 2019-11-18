@@ -1,0 +1,33 @@
+Naming convention of topics
+https://riccomini.name/how-paint-bike-shed-kafka-topic-naming-conventions?source=post_page-----1b7259790073----------------------
+
+https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e
+
+Compression ratio
+https://blog.cloudflare.com/squeezing-the-firehose/
+
+Backward compatibility
+https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/
+
+https://courses.datacumulus.com/kafka-beginners-bu5
+
+Kafka Producer Delivery Semantics
+https://dzone.com/articles/kafka-producer-delivery-semantics
+
+twitter client to get twitter feed
+https://github.com/twitter/hbc
+
+kafka-sending-object-as-a-message
+https://dzone.com/articles/kafka-sending-object-as-a-message
+
+Monitoring kafka server
+https://docs.confluent.io/current/kafka/monitoring.html
+
+Kafaka connect
+https://docs.confluent.io/current/connect/index.html
+
+Apache Avaro - schema definition for kafka
+https://avro.apache.org/docs/current/gettingstartedjava.html
+
+Schema registery
+https://docs.confluent.io/current/schema-registry/schema_registry_tutorial.html
