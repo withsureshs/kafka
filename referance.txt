@@ -22,6 +22,8 @@ https://dzone.com/articles/kafka-sending-object-as-a-message
 
 Monitoring kafka server
 https://docs.confluent.io/current/kafka/monitoring.html
+https://kafka.apache.org/documentation/#monitoring
+https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/
 
 Kafaka connect
 https://docs.confluent.io/current/connect/index.html
@@ -31,3 +33,13 @@ https://avro.apache.org/docs/current/gettingstartedjava.html
 
 Schema registery
 https://docs.confluent.io/current/schema-registry/schema_registry_tutorial.html
+
+Kafka security and encryption
+https://developer.ibm.com/tutorials/kafka-authn-authz/
+https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf
+
+Kafka log compaction
+https://dzone.com/articles/kafka-architecture-log-compaction
+
+Kafka streams
+https://kafka.apache.org/23/documentation/streams/quickstart
