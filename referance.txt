@@ -43,3 +43,4 @@ https://dzone.com/articles/kafka-architecture-log-compaction
 
 Kafka streams
 https://kafka.apache.org/23/documentation/streams/quickstart
+https://kafka.apache.org/23/documentation/streams/core-concepts
