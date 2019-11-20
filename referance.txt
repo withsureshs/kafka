@@ -44,3 +44,9 @@ https://dzone.com/articles/kafka-architecture-log-compaction
 Kafka streams
 https://kafka.apache.org/23/documentation/streams/quickstart
 https://kafka.apache.org/23/documentation/streams/core-concepts
+https://www.quora.com/What-are-the-differences-and-similarities-between-Kafka-and-Spark-Streaming
+https://docs.confluent.io/current/streams/developer-guide/write-streams.html
+
+Examples
+https://github.com/simplesteph
+https://docs.confluent.io/current/streams/kafka-streams-examples/docs/index.html
