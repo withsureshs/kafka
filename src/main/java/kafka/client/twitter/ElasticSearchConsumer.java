@@ -143,7 +143,7 @@ public class ElasticSearchConsumer {
 	            if (recordCount > 0) {
 	                BulkResponse bulkItemResponses = client.bulk(bulkRequest, RequestOptions.DEFAULT);
 	                logger.info("Committing offsets...");
-	                consumer.commitSync();
+	                consumer.commitSync();//kafka offset commit
 	                logger.info("Offsets have been committed");
 	                try {
 	                    Thread.sleep(1000);
